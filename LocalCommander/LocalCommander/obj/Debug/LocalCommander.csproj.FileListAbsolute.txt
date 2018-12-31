@@ -1,0 +1,10 @@
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\bin\Debug\LocalCommander.exe.config
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\bin\Debug\LocalCommander.exe
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\bin\Debug\LocalCommander.pdb
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\obj\Debug\LocalCommander.csprojAssemblyReference.cache
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\obj\Debug\LocalCommander.Properties.Resources.resources
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\obj\Debug\LocalCommander.csproj.GenerateResource.cache
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\obj\Debug\LocalCommander.csproj.CoreCompileInputs.cache
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\obj\Debug\LocalCommander.exe
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\obj\Debug\LocalCommander.pdb
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LocalCommander\obj\Debug\LocalCommander.MainForm.resources
