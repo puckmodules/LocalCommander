@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            new TestVirtualMonitor();
-
+            //new TestVirtualMonitor();
+            new TestVirtualApplication();
         }
 
 

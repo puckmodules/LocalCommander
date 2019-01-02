@@ -56,11 +56,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helper\ExtensionHelper.cs" />
     <Compile Include="KeyMouseListener.cs" />
     <Compile Include="LocalAutomationException.cs" />
+    <Compile Include="TestSuite\TestVirtualApplication.cs" />
     <Compile Include="TestSuite\TestVirtualMonitor.cs" />
     <Compile Include="TestSuite\Main_TestSuite.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VirtualApplication.cs" />
     <Compile Include="VirtualKeyboard.cs" />
     <Compile Include="VirtualMonitor.cs" />
     <Compile Include="VirtualMouse.cs" />

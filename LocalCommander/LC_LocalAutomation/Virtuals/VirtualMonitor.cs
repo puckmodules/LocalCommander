@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
 
-namespace LC_LocalAutomation
+namespace LC_LocalAutomation.Virtuals
 {
     public class VirtualMonitor
     {
@@ -63,6 +63,14 @@ namespace LC_LocalAutomation
             var bmp = new Bitmap(destination.X - origin.X, destination.Y - origin.Y);
             var gr = Graphics.FromImage(bmp);
             gr.CopyFromScreen(origin.X, origin.Y, destination.X, destination.Y, bmp.Size);
+            return bmp;
+        }
+
+        public Bitmap PrintScreen(Rectangle rect)
+        {
+            var bmp = new Bitmap(rect.Width, rect.Height);
+            var gr = Graphics.FromImage(bmp);
+            gr.CopyFromScreen(rect.X, rect.Y, 0, 0, bmp.Size);
             return bmp;
         }
     }

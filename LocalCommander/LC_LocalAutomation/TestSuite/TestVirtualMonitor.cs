@@ -1,4 +1,6 @@
-﻿namespace LC_LocalAutomation.TestSuite
+﻿using LC_LocalAutomation.Virtuals;
+
+namespace LC_LocalAutomation.TestSuite
 {
     class TestVirtualMonitor
     {
