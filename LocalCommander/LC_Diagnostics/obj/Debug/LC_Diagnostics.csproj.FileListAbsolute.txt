@@ -1,0 +1,6 @@
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_Diagnostics\bin\Debug\LC_Diagnostics.dll
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_Diagnostics\bin\Debug\LC_Diagnostics.pdb
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_Diagnostics\obj\Debug\LC_Diagnostics.csprojAssemblyReference.cache
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_Diagnostics\obj\Debug\LC_Diagnostics.csproj.CoreCompileInputs.cache
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_Diagnostics\obj\Debug\LC_Diagnostics.dll
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_Diagnostics\obj\Debug\LC_Diagnostics.pdb

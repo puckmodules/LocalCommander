@@ -1,0 +1,15 @@
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\obj\Debug\LC_LocalAutomation.csprojAssemblyReference.cache
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\obj\Debug\LC_LocalAutomation.csproj.CoreCompileInputs.cache
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\AutoItX3.dll
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\AutoItX3_x64.dll
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\LC_LocalAutomation.exe.config
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\LC_LocalAutomation.exe
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\LC_LocalAutomation.pdb
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\obj\Debug\LC_LocalAutomation.csproj.CopyComplete
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\obj\Debug\LC_LocalAutomation.exe
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\obj\Debug\LC_LocalAutomation.pdb
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\LC_Diagnostics.dll
+C:\Users\138208\Documents\Visual Studio 2017\PrivateProjects\LocalCommander\LocalCommander\LC_LocalAutomation\bin\Debug\LC_Diagnostics.pdb
